@@ -2,7 +2,8 @@
 
 Perkenalkan nama saya **Azizatun Hasanah**.\
 
-Saya seorang mahasiswa jurusan Teknik Informatika di https://polije.ac.id/
+- 🔭 Saya seorang mahasiswa jurusan Teknik Informatika di https://polije.ac.id/
+- 🌱 Saya baru saja belajar tentang Pengembang Front-End Web dan Back-End
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/azizatun-hasanah-700b8a1b5/)ku ya.
 
